@@ -1,5 +1,6 @@
 *.log
-.venv*
+.venv*/
+__pycache__/
 *.csv
 *.db
 *.env
